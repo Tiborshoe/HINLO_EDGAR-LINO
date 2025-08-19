@@ -23,6 +23,11 @@ If you are using **Visual Studio Code**:
 
 If you have **Python installed**, you can use its built-in web server:  
 
+
+After running the command, open your browser and visit:
+
+copy and paste http://localhost:8000
+
 ```bash
 # For Python 3
 python -m http.server 8000
